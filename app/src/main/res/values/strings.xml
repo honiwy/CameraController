@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisableCamera</string>
+    <string name="app_name2">EnableCamera</string>
+</resources>
